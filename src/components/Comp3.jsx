@@ -23,8 +23,9 @@ const Comp3 = () => {
             <br /><br /><br /><hr />
 
 
-            {/* param1 */}
             <div>Comp3 입니다.</div>
+            
+            {/* param1 */}
             <Link to='/param/15/kim'>path variable</Link>
 
             <br /><br /><br /><hr />

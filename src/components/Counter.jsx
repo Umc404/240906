@@ -13,7 +13,7 @@ const Counter = () => {
     const decre = ()=> {
         setCount(count-1);
     }
-
+    
     return (
         <div className='count'>
             <h1>{count}</h1>
